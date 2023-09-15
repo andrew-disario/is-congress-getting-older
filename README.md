@@ -1,7 +1,7 @@
 <h1>"Is Congress Getting Older?"</h1>
 
 <h2>Description:</h2>
-This study utilizes modelling and analysis tools to idenitfy patterns in trends regarding age demographics from the 80th to the 113th congress. Data was obtained from githubusercontent.com and consists of data from Congress as well as the House of Representatives. When run, the average age of each body for each year is calculated and modelled with a line plot.
+This study utilizes modelling and analysis tools to identify patterns in trends regarding age demographics from the 80th to the 113th congress. Data was obtained from githubusercontent.com and consists of data from Congress as well as the House of Representatives. When run, the average age of each body for each year is calculated and modelled with a line plot.
 <br />
 
 
